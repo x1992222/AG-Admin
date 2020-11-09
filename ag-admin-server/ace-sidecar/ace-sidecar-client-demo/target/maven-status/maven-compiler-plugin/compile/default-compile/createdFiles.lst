@@ -1,0 +1,4 @@
+com/github/wxiaoqi/security/sidecarclient/PythonServerBootstrap.class
+com/github/wxiaoqi/security/sidecarclient/entity/Message.class
+com/github/wxiaoqi/security/sidecarclient/client/PythonFeignClient.class
+com/github/wxiaoqi/security/sidecarclient/rest/PythonController.class

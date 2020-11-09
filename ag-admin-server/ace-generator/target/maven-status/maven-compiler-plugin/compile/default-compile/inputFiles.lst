@@ -1,0 +1,10 @@
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/config/WebConfig.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/controller/HomeController.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/entity/TableEntity.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/service/GeneratorService.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/GeneratorBootstrap.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/utils/GeneratorUtils.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/entity/ColumnEntity.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/utils/DateUtils.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/mapper/GeneratorMapper.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-generator/src/main/java/com/github/wxiaoqi/security/generator/rest/GeneratorRest.java

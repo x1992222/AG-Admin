@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ace-auth-client" />
+        <module name="ace-admin" />
+        <module name="ace-config" />
+        <module name="ace-monitor" />
+        <module name="ace-common" />
+        <module name="ace-auth-server" />
+        <module name="ace-generator" />
+        <module name="ace-sidecar-client-demo" />
+        <module name="ace-gate-ratelimit" />
+        <module name="ace-gate-server" />
+        <module name="ace-auth-common" />
+        <module name="ace-sidecar-server" />
+        <module name="ace-center" />
+        <module name="ace-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ace-admin" target="1.8" />
+      <module name="ace-admin-server" target="1.6" />
+      <module name="ace-api" target="1.6" />
+      <module name="ace-auth" target="1.6" />
+      <module name="ace-auth-client" target="1.6" />
+      <module name="ace-auth-common" target="1.6" />
+      <module name="ace-auth-server" target="1.8" />
+      <module name="ace-center" target="1.6" />
+      <module name="ace-common" target="1.8" />
+      <module name="ace-config" target="1.8" />
+      <module name="ace-gate" target="1.6" />
+      <module name="ace-gate-ratelimit" target="1.8" />
+      <module name="ace-gate-server" target="1.8" />
+      <module name="ace-generator" target="1.7" />
+      <module name="ace-monitor" target="1.6" />
+      <module name="ace-sidecar" target="1.6" />
+      <module name="ace-sidecar-client-demo" target="1.6" />
+      <module name="ace-sidecar-server" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

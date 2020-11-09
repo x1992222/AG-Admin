@@ -1,0 +1,16 @@
+com/github/wxiaoqi/security/auth/client/interceptor/ServiceAuthRestInterceptor.class
+com/github/wxiaoqi/security/auth/client/config/UserAuthConfig.class
+com/github/wxiaoqi/security/auth/client/runner/AuthClientRunner.class
+com/github/wxiaoqi/security/auth/client/exception/JwtSignatureException.class
+com/github/wxiaoqi/security/auth/client/annotation/IgnoreUserToken.class
+com/github/wxiaoqi/security/auth/client/jwt/ServiceAuthUtil.class
+com/github/wxiaoqi/security/auth/client/configuration/AutoConfiguration.class
+com/github/wxiaoqi/security/auth/client/exception/JwtIllegalArgumentException.class
+com/github/wxiaoqi/security/auth/client/EnableAceAuthClient.class
+com/github/wxiaoqi/security/auth/client/jwt/UserAuthUtil.class
+com/github/wxiaoqi/security/auth/client/feign/ServiceAuthFeign.class
+com/github/wxiaoqi/security/auth/client/config/ServiceAuthConfig.class
+com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.class
+com/github/wxiaoqi/security/auth/client/interceptor/ServiceFeignInterceptor.class
+com/github/wxiaoqi/security/auth/client/annotation/IgnoreClientToken.class
+com/github/wxiaoqi/security/auth/client/exception/JwtTokenExpiredException.class

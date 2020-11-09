@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AG-Admin.iml" filepath="$PROJECT_DIR$/.idea/AG-Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-admin/ace-admin.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-admin/ace-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-admin-server.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-api/ace-api.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-api/ace-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-client/ace-auth-client.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-client/ace-auth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-common/ace-auth-common.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-common/ace-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-server/ace-auth-server.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-auth/ace-auth-server/ace-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-center/ace-center.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-center/ace-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-common/ace-common.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-common/ace-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-config/ace-config.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-config/ace-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate-ratelimit/ace-gate-ratelimit.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate-ratelimit/ace-gate-ratelimit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate-server/ace-gate-server.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-gate/ace-gate-server/ace-gate-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-generator/ace-generator.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-generator/ace-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-monitor/ace-monitor.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-monitor/ace-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar-client-demo/ace-sidecar-client-demo.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar-client-demo/ace-sidecar-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar-server/ace-sidecar-server.iml" filepath="$PROJECT_DIR$/ag-admin-server/ace-sidecar/ace-sidecar-server/ace-sidecar-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+com/github/wxiaoqi/security/gate/config/UserPrincipal.class
+com/github/wxiaoqi/security/gate/feign/IUserService.class
+com/github/wxiaoqi/security/gate/filter/AdminAccessFilter$2.class
+com/github/wxiaoqi/security/gate/filter/AdminAccessFilter.class
+com/github/wxiaoqi/security/gate/GateBootstrap.class
+com/github/wxiaoqi/security/gate/utils/DBLog.class
+com/github/wxiaoqi/security/gate/feign/ILogService.class
+com/github/wxiaoqi/security/gate/filter/AdminAccessFilter$1.class

@@ -1,0 +1,16 @@
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/interceptor/UserAuthRestInterceptor.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/config/UserAuthConfig.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/feign/ServiceAuthFeign.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/annotation/IgnoreUserToken.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/interceptor/ServiceAuthRestInterceptor.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/configuration/AutoConfiguration.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/exception/JwtSignatureException.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/interceptor/ServiceFeignInterceptor.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/annotation/IgnoreClientToken.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/exception/JwtIllegalArgumentException.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/jwt/ServiceAuthUtil.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/jwt/UserAuthUtil.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/runner/AuthClientRunner.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/exception/JwtTokenExpiredException.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/EnableAceAuthClient.java
+/Users/zhangxl/Workstation/Wocloud/Work/master/AG-Admin/ag-admin-server/ace-auth/ace-auth-client/src/main/java/com/github/wxiaoqi/security/auth/client/config/ServiceAuthConfig.java
